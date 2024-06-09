@@ -1,0 +1,3 @@
+registry.cn-beijing.aliyuncs.com/io01:
+  "username": "${ACR_USER}",
+  "password": "${ACR_PASSWORD}"
