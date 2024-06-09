@@ -1,2 +1,3 @@
-nattertool/check:latest: registry.cn-beijing.aliyuncs.com/io01/nattertool_check
-nattertool/natter:latest: registry.cn-beijing.aliyuncs.com/io01/nattertool_natter
+nattertool/check:latest: registry.cn-beijing.aliyuncs.com/io01/natter_check
+nattertool/natter:latest: registry.cn-beijing.aliyuncs.com/io01/natter
+tailscale/tailscale:latest: registry.cn-beijing.aliyuncs.com/io01/tailscale
