@@ -1,1 +1,2 @@
 nattertool/check:latest: registry.cn-beijing.aliyuncs.com/io01/nattertool_check
+nattertool/natter:latest: registry.cn-beijing.aliyuncs.com/io01/nattertool_natter
