@@ -1,3 +1,3 @@
-registry.cn-beijing.aliyuncs.com/io01:
+registry.cn-hangzhou.aliyuncs.com/shilohl:
   username: "$ACR_USER"
   password: "$ACR_PASSWORD"

@@ -1,3 +1,6 @@
-nattertool/check:latest: registry.cn-beijing.aliyuncs.com/io01/natter_check
-nattertool/natter:latest: registry.cn-beijing.aliyuncs.com/io01/natter
-tailscale/tailscale:latest: registry.cn-beijing.aliyuncs.com/io01/tailscale
+mysql:8.0.32: registry.cn-hangzhou.aliyuncs.com/shilohl/mysql
+phpmyadmin:5.2.1: registry.cn-hangzhou.aliyuncs.com/shilohl/phpmyadmin
+alpine:3.18.2: registry.cn-hangzhou.aliyuncs.com/shilohl/mysql-job-dbdata
+redis:6.2: registry.cn-hangzhou.aliyuncs.com/shilohl/redis
+spryker/redis-commander:0.8.0: registry.cn-hangzhou.aliyuncs.com/shilohl/redis-admin
+portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/shilohl/portainer
