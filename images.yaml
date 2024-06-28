@@ -1,3 +1,2 @@
-nattertool/check:latest: registry.cn-beijing.aliyuncs.com/io01/natter_check
-nattertool/natter:latest: registry.cn-beijing.aliyuncs.com/io01/natter
-tailscale/tailscale:latest: registry.cn-beijing.aliyuncs.com/io01/tailscale
+mysql:8.0.32: registry.cn-hangzhou.aliyuncs.com/shilohl/mysql
+phpmyadmin:5.2.1: registry.cn-hangzhou.aliyuncs.com/shilohl/phpmyadmin
