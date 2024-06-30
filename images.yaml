@@ -4,3 +4,4 @@ alpine:3.18.2: registry.cn-hangzhou.aliyuncs.com/shilohl/mysql-job-dbdata
 redis:6.2: registry.cn-hangzhou.aliyuncs.com/shilohl/redis
 spryker/redis-commander:0.8.0: registry.cn-hangzhou.aliyuncs.com/shilohl/redis-admin
 portainer/portainer-ce:latest: registry.cn-hangzhou.aliyuncs.com/shilohl/portainer
+ghcr.io/dreamacro/clash:latest: registry.cn-hangzhou.aliyuncs.com/shilohl/clash
